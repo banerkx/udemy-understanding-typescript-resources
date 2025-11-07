@@ -1,9 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**udemy-understanding-typescript-resources/other/what-changed.md Table Of Contents**
+
+- [Course Update - What Changed](#course-update---what-changed)
+- [How should you proceed](#how-should-you-proceed)
+  - [If you're currently taking the course](#if-youre-currently-taking-the-course)
+  - [If you have not started the course yet](#if-you-have-not-started-the-course-yet)
+  - [If you completed the course already](#if-you-completed-the-course-already)
+- [Per-section Update Details](#per-section-update-details)
+- [What happens to the old content](#what-happens-to-the-old-content)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 - [What Changed?](#course-update---what-changed)
 - [How Should You Proceed](#how-should-you-proceed)
 - [Per-section Update Details](#per-section-update-details)
 - [What Happens To The Old Content?](#what-happens-to-the-old-content)
 
-# Course Update - What Changed?
+# Course Update - What Changed
 
 I updated my [Understanding TypeScript course](https://acad.link/typescript) - what does that mean for you?
 
@@ -11,7 +25,7 @@ If you're a student on Udemy, the new course content was inserted into the exist
 
 There, sections have been updated as [described below](#per-section-update-details). Old content is temporarily kept around (~for a few months), more details can also be found below.
 
-# How should you proceed?
+# How should you proceed
 
 I tried my best to provide this new course such that your current learning progress & experience is influenced as little as possible.
 
@@ -42,9 +56,10 @@ You can, of course, explore the updated content and see if some lectures sound i
 # Per-section Update Details
 
 There are three kinds of section changes:
+
 1. New lectures added, old lectures are temporarily kept around in sections marked as LEGACY (see [What happens to the old content?](#what-happens-to-the-old-content))
-2. Old lectures kept around but videos were replaced, lecture titles were potentially changed
-3. New section added
+1. Old lectures kept around but videos were replaced, lecture titles were potentially changed
+1. New section added
 
 I chose the first apporach if the old section was relatively long and I did want to minimize the impact of interrupting learning progress by replacing videos & renaming lectures.
 
@@ -53,129 +68,128 @@ I chose the second approach for shorter sections where impact is likely to be ne
 **Here are the per-section details:**
 
 1. **Getting Started**
-    
-    (2nd approach): Replaced existing videos in existing lectures with the new videos.
 
-2. **Essentials (formerly called "Basics")**
+   (2nd approach): Replaced existing videos in existing lectures with the new videos.
 
-    (1st approach): Added new lectures in new section, moved old section (now marked as LEGACY) to the end of the course
+1. **Essentials (formerly called "Basics")**
 
-    If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 3).
+   (1st approach): Added new lectures in new section, moved old section (now marked as LEGACY) to the end of the course
 
-    Alternatively, you can switch to the new, updated section 2 right away and rewatch it from the beginning. This is not required, though.
+   If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 3).
 
-3. **Configuring TypeScript Projects**
+   Alternatively, you can switch to the new, updated section 2 right away and rewatch it from the beginning. This is not required, though.
 
-    (1st approach): Added new lectures in new section, moved old section (now marked as LEGACY) to the end of the course
+1. **Configuring TypeScript Projects**
 
-    If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 4).
+   (1st approach): Added new lectures in new section, moved old section (now marked as LEGACY) to the end of the course
 
-    Alternatively, you can switch to the new, updated section 3 right away and rewatch it from the beginning. This is not required, though.
+   If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 4).
 
-4. **Essentials Demo Project**
+   Alternatively, you can switch to the new, updated section 3 right away and rewatch it from the beginning. This is not required, though.
 
-    BRAND-NEW section! 
+1. **Essentials Demo Project**
 
-5. **Next-generation JavaScript & TypeScript**
+   BRAND-NEW section!
 
-    No changes
+1. **Next-generation JavaScript & TypeScript**
 
-6. **Classes & Interfaces** 
+   No changes
 
-    (1st approach): Added new lectures in new section, moved old section (now marked as LEGACY) to the end of the course
+1. **Classes & Interfaces**
 
-    If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 7).
+   (1st approach): Added new lectures in new section, moved old section (now marked as LEGACY) to the end of the course
 
-    Alternatively, you can switch to the new, updated section 6 right away and rewatch it from the beginning. This is not required, though.
+   If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 7).
 
-7. **Advanced Types**
+   Alternatively, you can switch to the new, updated section 6 right away and rewatch it from the beginning. This is not required, though.
 
-    (2nd approach): Replaced existing videos in existing lectures with the new videos.
+1. **Advanced Types**
 
-    Added some new lectures (e.g., about "as const", "Index Types" and "satisfies")
+   (2nd approach): Replaced existing videos in existing lectures with the new videos.
 
-    If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
+   Added some new lectures (e.g., about "as const", "Index Types" and "satisfies")
 
-8. **Generic Types** 
+   If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
 
-    (1st approach): Added new lectures in new section, moved old section (now marked as LEGACY) to the end of the course
+1. **Generic Types**
 
-    If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 9).
+   (1st approach): Added new lectures in new section, moved old section (now marked as LEGACY) to the end of the course
 
-    Alternatively, you can switch to the new, updated section 8 right away and rewatch it from the beginning. This is not required, though.
+   If you're currently going through the old section, you can continue doing so. At the end of that section you find a lecture with a link to the next section you should continue with (which will be the new section 9).
 
-9. **Classes & Generics - Demo Project**
+   Alternatively, you can switch to the new, updated section 8 right away and rewatch it from the beginning. This is not required, though.
 
-    BRAND-NEW section!    
+1. **Classes & Generics - Demo Project**
 
-10. **Deriving Types From Types**
+   BRAND-NEW section!
 
-    BRAND-NEW section!   
+1. **Deriving Types From Types**
 
-11. **Decorators**
+   BRAND-NEW section!
 
-    BRAND-NEW section!  
+1. **Decorators**
 
-    The old Decorators section will also stay online and was renamed to "Experimental Decorators".
+   BRAND-NEW section!
 
-    Why? Because ECMAScript introduced decorators, too. TypeScript now supports both the "standard" ECMAScript decorators as well as the "old" decorator syntax it always supported. Hence this course now has sections for both!
+   The old Decorators section will also stay online and was renamed to "Experimental Decorators".
 
-12. **Experimental Decorators**
+   Why? Because ECMAScript introduced decorators, too. TypeScript now supports both the "standard" ECMAScript decorators as well as the "old" decorator syntax it always supported. Hence this course now has sections for both!
 
-    No changes, except for the title.
+1. **Experimental Decorators**
 
-    That's the old "Decorators" section - the lectures were not changed. See the previous section explanation for more details.
+   No changes, except for the title.
 
-13. **Practice Time! Let's build a Drag & Drop Project**
+   That's the old "Decorators" section - the lectures were not changed. See the previous section explanation for more details.
 
-    No changes.
+1. **Practice Time! Let's build a Drag & Drop Project**
 
-14. **Modules & Namespaces**
+   No changes.
 
-    (Almost) no changes.
+1. **Modules & Namespaces**
 
-    Added one new lecture: *"Understanding 'type' imports"*.
-    
-15. **Creating & Running TypeScript Projects with Vite**
+   (Almost) no changes.
 
-    BRAND-NEW section!
+   Added one new lecture: *"Understanding 'type' imports"*.
 
-16. **Using Webpack with TypeScript**
-    
-    No changes.
+1. **Creating & Running TypeScript Projects with Vite**
 
-17. **3rd Party Library & TypeScript**
+   BRAND-NEW section!
 
-    (2nd approach): Replaced existing videos in existing lectures with the new videos.
+1. **Using Webpack with TypeScript**
 
-    Slightly changed structure, now covering Zod as a modern TypeScript-first library.
+   No changes.
 
-    If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
+1. **3rd Party Library & TypeScript**
 
-18. **Time to Practice! Select & Share Place App**
+   (2nd approach): Replaced existing videos in existing lectures with the new videos.
 
-    No changes.
+   Slightly changed structure, now covering Zod as a modern TypeScript-first library.
 
-19. **React.js & TypeScript**
-    
-    (2nd approach): Replaced existing videos in existing lectures with the new videos.
+   If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
 
-    Changed structure slightly - core topics are the same though.
+1. **Time to Practice! Select & Share Place App**
 
-    If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
+   No changes.
 
-20. **Node.js & TypeScript**
+1. **React.js & TypeScript**
 
-    (2nd approach): Replaced existing videos in existing lectures with the new videos.
+   (2nd approach): Replaced existing videos in existing lectures with the new videos.
 
-    Changed structure slightly & covering additional content about native Node.js TypeScript support.
+   Changed structure slightly - core topics are the same though.
 
-    If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
+   If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
 
+1. **Node.js & TypeScript**
 
-# What happens to the old content?
+   (2nd approach): Replaced existing videos in existing lectures with the new videos.
 
-On Udemy, the old section (marked as LEGACY) will eventually be removed once their consumption has dropped to insignifcant levels. 
+   Changed structure slightly & covering additional content about native Node.js TypeScript support.
+
+   If you were going through that section, I recommend restarting it - possibly at 2x speed to save time.
+
+# What happens to the old content
+
+On Udemy, the old section (marked as LEGACY) will eventually be removed once their consumption has dropped to insignifcant levels.
 
 Why? Because the course is quite bloated otherwise, students are forced to go through the old content to get 100% progression and Udemy is not a fan of having two courses in one.
 
