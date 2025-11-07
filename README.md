@@ -1,3 +1,13 @@
+<!-- START mdtoc generated TOC. Please keep comment here to allow updates. -->
+<!-- DO NOT EDIT THIS SECTION MANUALLY.                                    -->
+**udemy-understanding-typescript-resources/README.md Table Of Contents**
+
+- [Understanding TypeScript Course Resources](#understanding-typescript-course-resources)
+- [Repository Content](#repository-content)
+- [How To Use Code Snapshots](#how-to-use-code-snapshots)
+
+<!-- END mdtoc generated TOC. Please keep comment here to allow updates.   -->
+
 # Understanding TypeScript Course Resources
 
 This repository contains attachments, slides and code snapshots for my course [Understanding TypeScript](https://acad.link/typescript).
